@@ -1,0 +1,14 @@
+*{
+  background-color: #FFD900;
+}
+
+.contenedor{
+  border: double #FF7A00 15px;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+
+.contenedor img{
+  width: 500px;
+}

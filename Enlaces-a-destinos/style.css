@@ -1,0 +1,30 @@
+body {
+    font-size: 15pt;
+    background-color: #B9E0EF
+}
+
+h1{
+  border: solid #455F69 10px;
+  border-radius: 5px;
+  background: #FFCE3F;
+  
+}
+
+li{
+  list-style: square;
+}
+
+li, a{
+  font-size: 40px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color:#FA980F;
+  color: #000;
+}
+
+a:visited{
+  color: #FF8800;
+}
+

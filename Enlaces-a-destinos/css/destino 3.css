@@ -1,0 +1,15 @@
+*{
+  background-color: #000000;
+}
+
+.contenedor{
+  border: double #FFFFFF 15px;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  color: #FFFFFF
+}
+
+.contenedor img{
+  width: 500px;
+}

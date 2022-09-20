@@ -1,0 +1,18 @@
+body {
+    font-size: 15pt;
+    background-color: #5A5E89;
+}
+
+.contenedor{ /*Estilo del contenedor del texto*/
+  border-style: double;
+  border-width: 40px;
+  padding: 50px;
+  border-color: #5BFF84;
+}
+
+h1{ /*Estilo del texto*/
+  font-size: 100px;
+  color: #5BFF84;
+  font-family: cursive;
+  text-shadow: 5px 5px 6px #000000;
+}

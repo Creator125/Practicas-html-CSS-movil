@@ -1,0 +1,14 @@
+*{
+  background-color: hsla(182, 81%, 76%, 1);
+}
+
+.contenedor{
+  border: double #0035EC 15px;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+
+.contenedor img{
+  width: 500px;
+}

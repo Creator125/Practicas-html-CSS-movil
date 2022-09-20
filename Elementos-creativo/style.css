@@ -1,0 +1,39 @@
+body {
+    font-size: 15pt;
+    background-color: #2CC6DE;
+}
+
+.contenedor{ /*Estilo general para cada elemento */
+  width: 400px;
+  height: 400px;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+  margin:20px;
+}
+
+/* Estilo individual cada elemento */
+
+.item1{
+  background-image: url(./img/textura1.jpg);
+}
+
+.item2{
+  background-image: url(./img/textura2.jpg);
+}
+
+.item3{
+  background-image: url(./img/textura3.jpg);
+}
+
+.item4{
+  background-image: url(./img/textura4.jpg);
+}
+
+.item5{
+  background-image: url(./img/textura5.jpeg);
+}
+
+.item6{
+  background-image: url(./img/textura6.jpg);
+}
