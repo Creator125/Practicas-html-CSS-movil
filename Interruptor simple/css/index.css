@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.contenedor{
+  width: 100%;
+  height: 100vh;
+  background-color: #aaaafa;
+  background-attachment: fixed;
+}
+
+.contenedor .switch{
+  position: absolute;
+  margin: 50%;
+  width: 200px;
+  height: 400px;
+  background-image: url("svg/switch--on.svg");
+}
