@@ -46,3 +46,6 @@ https://play.google.com/store/apps/details?id=com.codeliber.css
   - https://runebook.dev/es/docs/css/@counter-style
   
   - https://escss.blogspot.com/2013/07/regla-css3-counter-style.html?m=1
+
+**Gerarquia de especifidad**
+- https://i.imgur.com/LSZWYqw.png
