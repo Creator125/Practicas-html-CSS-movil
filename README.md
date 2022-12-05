@@ -50,3 +50,8 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 
 **Gerarquia de especifidad**
 - https://i.imgur.com/LSZWYqw.png
+
+**Valores para las pseudo-clases cuyo valor sea numerico o :nth-child()**
+- https://filisantillan.com/bits/nth-child/
+
+- https://front.id/es/articles/uso-practico-del-selector-nth-child

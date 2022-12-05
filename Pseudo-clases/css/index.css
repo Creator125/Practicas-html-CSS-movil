@@ -1,0 +1,23 @@
+.caja{
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  display: inline-block;
+  margin: 5px;
+}
+
+/*
+Valores utilizados-
+- 5
+- 3n
+- 3n+1
+- n+4
+- -n+4 
+- 3n-1
+- odd
+- even
+*/
+
+.caja:nth-child(even){
+  background-color: blue;
+}
