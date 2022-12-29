@@ -55,3 +55,18 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 - https://filisantillan.com/bits/nth-child/
 
 - https://front.id/es/articles/uso-practico-del-selector-nth-child
+
+**Gradientes**
+- https://www.eniun.com/gradientes-css-lineal-radial/
+
+- http://w3.unpocodetodo.info/css3/gradientes-lineales.php
+
+- https://runebook.dev/es/docs/css/css_images/using_css_gradients
+
+- https://developer.mozilla.org/es/docs/Web/CSS/CSS_Images/Using_CSS_gradients
+
+- Gradietes cónicos
+
+  - https://barcelonageeks.com/css-funcion-conic-gradient/
+  
+  - https://runebook.dev/es/docs/css/gradient/conic-gradient()
