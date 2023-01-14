@@ -70,3 +70,10 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
   - https://barcelonageeks.com/css-funcion-conic-gradient/
   
   - https://runebook.dev/es/docs/css/gradient/conic-gradient()
+
+**La regla @font-face**
+- https://runebook.dev/es/docs/css/@font-face
+
+- https://desarrolladoresweb.org/css3/la-regla-font-face/
+
+- http://w3.unpocodetodo.info/css3/font-face.php

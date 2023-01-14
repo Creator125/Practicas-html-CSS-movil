@@ -1,0 +1,85 @@
+.cuadro{
+  width: 300px;
+  height: 150px;
+  display: inline-block;
+  margin: 7px;
+  padding: 5px;
+}
+
+@font-face{
+  font-family: fuente1;
+  src: url('../fonts/Better Yesterday.otf');
+}
+
+@font-face{
+  font-family: fuente2;
+  src: url('../fonts/Bouncy.otf');
+}
+
+@font-face{
+  font-family: fuente3;
+  src: url('../fonts/Neon.ttf');
+}
+
+@font-face{
+  font-family: fuente4;
+  src: url('../fonts/Homemade Sausage.ttf');
+}
+
+@font-face{
+  font-family: fuente5;
+  src: url('../fonts/Reach Story.ttf');
+}
+
+@font-face{
+  font-family: fuente6;
+  src: url('../fonts/TravelingTypewriter.otf');
+}
+
+@font-face{
+  font-family: fuente7;
+  src: url('../fonts/upheavtt.ttf');
+}
+
+.text1{
+  font-family: fuente1;
+  font-size: 15px;
+  background-color: #AEFE99;
+}
+
+.text2{
+  font-family: fuente2;
+  font-size: 15px;
+  background-color: #FF91AF;
+}
+
+.text3{
+  font-family: fuente3;
+  font-size: 15px;
+  background-color: #ECA500;
+}
+
+.text4{
+  font-family: fuente4;
+  font-size: 15px;
+  background-color: #55FE2D;
+}
+
+.text5{
+  font-family: fuente5;
+  font-size: 15px;
+  background-color: #A5FEF9;
+}
+
+.text6{
+  font-family: fuente6;
+  font-size: 15px;
+  background-color: #FE65E3;
+  color: #FFFFFF;
+}
+
+.text7{
+  font-family: fuente7;
+  font-size: 15px;
+  background-color: #FDFF2F;
+}
