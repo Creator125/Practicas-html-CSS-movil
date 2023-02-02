@@ -1,0 +1,17 @@
+.contenedor .caja1,
+.contenedor .caja2{
+  width: 350px;
+  height: 250px;
+  position: absolute;
+  margin: 70px;
+  border: black solid 1px;
+}
+
+.contenedor .caja1{
+  background-color: rgb(102, 77, 255);
+}
+
+.contenedor .caja2{
+  background-color: rgba(119, 135, 195, 0.50);
+  transform: rotate(50deg) translate(400px, 100px);
+}
