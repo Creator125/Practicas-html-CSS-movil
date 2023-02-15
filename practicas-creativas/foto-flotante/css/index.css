@@ -1,0 +1,20 @@
+body{
+  background: #00cfd5;
+  min-height: 100vh;
+}
+
+.contenedor{
+  margin: auto;
+  perspective: 700px;
+}
+
+.fotos{
+  width: 300px;
+  height: 700px;
+  border: 1px black solid;
+}
+
+.foto{
+  background: url("../img.jpg") center;
+  background-size: 100% 100%;
+}
