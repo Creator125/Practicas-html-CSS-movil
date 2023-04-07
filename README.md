@@ -84,3 +84,12 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 - https://www-quackit-com.translate.goog/css/functions/css_matrix3d_function.cfm?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419
 
 - https://runebook.dev/es/docs/css/transform-function/matrix3d()
+
+**La regla @keyframes**
+- https://runebook.dev/es/docs/css/@keyframes
+
+**Animaciones**
+- https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+
+**las propiedades Timing-Function de trasition y animation**
+- https://www.smashingmagazine.com/2014/04/understanding-css-timing-functions/
