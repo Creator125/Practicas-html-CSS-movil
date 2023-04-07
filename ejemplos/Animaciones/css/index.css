@@ -1,0 +1,21 @@
+div{
+  animation-name: rotar;
+  animation-duration: 2s;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: #d6f700;
+}
+
+
+@keyframes rotar{
+         0%{
+            transform: rotate(0deg);
+         }
+         50%{
+           transform: rotate(90deg);
+         }
+         100%{
+           transform: rotate(360deg);
+         }
+      }
