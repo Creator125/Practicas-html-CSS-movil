@@ -93,3 +93,5 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 
 **las propiedades Timing-Function de trasition y animation**
 - https://www.smashingmagazine.com/2014/04/understanding-css-timing-functions/
+
+- https://cubic-bezier.com/
