@@ -26,7 +26,7 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 
 ### Enlaces adicionales:
 
-**Unidades de medida**
+#### Unidades de medida
 - https://dev.to/lupitacode/unidades-de-medida-en-css-fundamentos-4n0g#:~:text=Estos%20valores%20%28data%20types%29%20pueden%20ser%20de%20diferentes,reciben%20valores%20de%20longitud%20%28px%2C%20em%2C%20rem%2C%20etc..%29.
 
 - https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Values_and_units
@@ -35,7 +35,7 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 
 - https://developer.mozilla.org/es/docs/Web/CSS/length
 
-**Contadores**
+#### Contadores
 - La propiedad counter-set.
   - https://developer.mozilla.org/en-US/docs/Web/CSS/counter-set
   
@@ -48,15 +48,15 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
   
   - https://escss.blogspot.com/2013/07/regla-css3-counter-style.html?m=1
 
-**Gerarquia de especifidad**
+#### Gerarquia de especifidad
 - https://i.imgur.com/LSZWYqw.png
 
-**Valores para las pseudo-clases cuyo valor sea numerico o :nth-child()**
+#### Valores para las pseudo-clases cuyo valor sea numerico o :nth-child()**
 - https://filisantillan.com/bits/nth-child/
 
 - https://front.id/es/articles/uso-practico-del-selector-nth-child
 
-**Gradientes**
+#### Gradientes
 - https://www.eniun.com/gradientes-css-lineal-radial/
 
 - http://w3.unpocodetodo.info/css3/gradientes-lineales.php
@@ -71,27 +71,36 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
   
   - https://runebook.dev/es/docs/css/gradient/conic-gradient()
 
-**La regla @font-face**
+#### La regla @font-face
 - https://runebook.dev/es/docs/css/@font-face
 
 - https://desarrolladoresweb.org/css3/la-regla-font-face/
 
 - http://w3.unpocodetodo.info/css3/font-face.php
 
-**Las funciones matriz() y matriz3d()**
+#### Las funciones matriz() y matriz3d()
 - https://runebook.dev/es/docs/css/transform-function/matrix()
 
 - https://www-quackit-com.translate.goog/css/functions/css_matrix3d_function.cfm?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419
 
 - https://runebook.dev/es/docs/css/transform-function/matrix3d()
 
-**La regla @keyframes**
+#### La regla @keyframes
 - https://runebook.dev/es/docs/css/@keyframes
 
-**Animaciones**
+#### Animaciones
 - https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Using_CSS_animations
 
-**las propiedades Timing-Function de trasition y animation**
-- https://www.smashingmagazine.com/2014/04/understanding-css-timing-functions/
+#### las funciones de Timing-Function trasition y animation
+- cubic-bezier()
+  - https://www.smashingmagazine.com/2014/04/understanding-css-timing-functions/
 
-- https://cubic-bezier.com/
+  - https://cubic-bezier.com/
+
+- steps()
+  - https://www.desarrollolibre.net/blog/css/el-uso-de-la-funcion-step-en-las-animaciones-y-transiciones-en-css
+
+#### Filtros
+- https://developer.mozilla.org/es/docs/Web/CSS/filter
+
+- https://developer.mozilla.org/es/docs/Web/CSS/backdrop-filter
