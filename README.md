@@ -104,3 +104,6 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 - https://developer.mozilla.org/es/docs/Web/CSS/filter
 
 - https://developer.mozilla.org/es/docs/Web/CSS/backdrop-filter
+
+#### La propiedad box-reflect
+- https://developer.mozilla.org/es/docs/Web/CSS/-webkit-box-reflect
