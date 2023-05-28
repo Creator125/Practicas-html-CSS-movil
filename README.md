@@ -106,4 +106,13 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 - https://developer.mozilla.org/es/docs/Web/CSS/backdrop-filter
 
 #### La propiedad box-reflect
+
 - https://developer.mozilla.org/es/docs/Web/CSS/-webkit-box-reflect
+
+#### Imagenes y objetos
+
+- La propiedad object-fill
+  - https://escss.blogspot.com/2013/12/propiedad-css-object-fit.html?m=1
+
+- La propiedad object-position
+  - https://www.bisign.es/css/object-position/
