@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  background-color: #232c2e;
+}
+
+@font-face{
+  font-family: neon;
+  src: url('../font/Neon.ttf');
+}
+
+.contenedor{
+  width: 100vh;
+  height: 100vh;
+}
+
+.text{
+  width: 50%;
+  margin-top: 30%;
+  margin-left: 50%;
+  text-align: center;
+  font-family: neon;
+  border: #3fffb5 solid 4px;
+  border-radius: 9px;
+  color: #3fffb5;
+  transform: scale(2);
+}

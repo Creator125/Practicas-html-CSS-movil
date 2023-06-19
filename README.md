@@ -116,3 +116,7 @@ https://play.google.com/store/apps/details?id=com.webref.cssplay&hl=es_CO&gl=US&
 
 - La propiedad object-position
   - https://www.bisign.es/css/object-position/
+  
+- La propiedad image-rendering
+  - https://www.w3docs.com/learn-css/image-rendering.html
+  
